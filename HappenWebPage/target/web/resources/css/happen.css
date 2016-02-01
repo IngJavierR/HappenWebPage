@@ -1,0 +1,63 @@
+.nosotros{
+  margin-top: 130px;
+}
+.lid{
+  margin-bottom: 50px;
+}
+.justifica{
+  text-align: justify;
+}
+.titFooter{
+  color: #0EB5D1;
+  margin: 0, 0, 10px, 0;
+}
+.twit{
+
+  background-image: url("../images/icons/twitter.png");
+}
+.linked{
+  
+  background-image: url("../images/icons/twitter.png");
+}
+.contactus{
+  max-width: inherit;
+  width: 50%;
+  float: right;
+  display: list-item;
+}
+
+.divCon{
+  width: 102%;
+  padding-bottom: 20px;
+  padding-left: 40px;
+}
+.izq{
+  width: 50%;
+  color:black;
+  float: left;
+}
+.der{
+  width: 50%;
+  color:black;
+  float: left;
+}
+.dat{
+  margin-top: 20px;
+}
+.foot{
+  background-color:#272627;
+}
+.color{
+  color: #ffffff;
+  font-size: 16px;
+}
+.pie{
+  padding-top: 100px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+.img1{
+  width: 500px;
+  height: 500px;
+  background-repeat: no-repeat;
+}
